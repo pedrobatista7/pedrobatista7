@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Pedro Batista
 
-**`Desenvolvedor Front-End`**
+**`Engenheiro De Software`**
 
-Apaixonado por tecnologia, design e programação, sempre buscando criar soluções inovadoras e funcionais. Técnico em Análise e Desenvolvimento de Sistemas pela ETEC, com foco em desenvolvimento web e UI/UX.
+Estudate De Engenharia De software pela uninter. Técnico em Análise e Desenvolvimento de Sistemas pela ETEC
 
 ---
 
