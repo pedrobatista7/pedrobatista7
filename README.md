@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Pedro Brandão
+# 👋 Olá, eu sou o Pedro Batista
 
 🎓 Estudante de Engenharia de Software  
 💻 Técnico em Desenvolvimento de Sistemas  
