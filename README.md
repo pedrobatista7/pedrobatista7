@@ -1,78 +1,36 @@
-# 👨🏻‍💻 Pedro Batista
+# 👋 Olá, eu sou o Pedro Brandão
 
-**`Engenheiro De Software`**
+🎓 Estudante de Engenharia de Software  
+💻 Técnico em Desenvolvimento de Sistemas  
+🚀 Foco em desenvolvimento Full Stack  
 
-Estudate De Engenharia De software pela uninter. Técnico em Análise e Desenvolvimento de Sistemas pela ETEC
+## 📚 Sobre mim
+Sou estudante de Engenharia de Software com formação técnica em Desenvolvimento de Sistemas.
+Tenho experiência acadêmica e prática no desenvolvimento de sistemas, buscando escrever código organizado,
+aplicar boas práticas e evoluir constantemente como desenvolvedor.
 
----
+Meu objetivo é consolidar meus conhecimentos em Full Stack e conquistar uma oportunidade de estágio,
+onde eu possa aprender com projetos reais e crescer profissionalmente.
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=pedrobatista7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
+## 🛠️ Tecnologias
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
+
+## 📌 Em aprendizado contínuo
+- Desenvolvimento Full Stack  
+- Boas práticas de arquitetura  
+- Estruturação de sistemas  
+
+📫 Conecte-se comigo no LinkedIn
+
 
 
 
